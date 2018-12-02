@@ -1,6 +1,6 @@
 # net-core-kafka
 
-Exemplo de produtor e consumidor em .NET Core utilizando o [Apache Kafka](https://kafka.apache.org).
+Exemplo de produtor e consumidor desenvolvidos em .NET Core com o intuito de demonstrar a utilização do [Apache Kafka](https://kafka.apache.org).
 
 ## Utilização
 
