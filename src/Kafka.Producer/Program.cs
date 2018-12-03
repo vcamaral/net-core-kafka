@@ -23,7 +23,7 @@ namespace Kafka.Producer
 
             using (var producer = new Producer<Null, string>(config))
             {
-                Console.WriteLine($"{producer.Name} producing on topic {topic}..");
+                Console.WriteLine($"{producer.Name} producing on topic {topic}...");
 
                 try
                 {
